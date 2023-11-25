@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_test"
+  site-url: "https://barakdiker.github.io/nbdev_test"
+  description: "Example project"
+  repo-branch: main
+  repo-url: "https://github.com/barakdiker/nbdev_test"
